@@ -48,3 +48,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doonikh" alt=""/>
 </div>
 
+### :bar_chart: Статистика активности:
+
+<div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doonikh&theme=tokyo-night" alt=""/>
+</div>
