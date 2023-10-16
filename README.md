@@ -14,4 +14,4 @@
 <div id="heythere" align=center">
 <h1> Профиль Doonikh на GITHUB </h1>
 </div>
-### :skull_and_crossbones: Обо мне :
+--- :skull_and_crossbones: Обо мне :
