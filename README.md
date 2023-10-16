@@ -41,3 +41,10 @@
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=Doonikh" alt=""/>
 </div>
+
+### :keyboard: Наиболее используемые языки:
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/yop-langs/?username=Doonikh" alt=""/>
+</div>
+
