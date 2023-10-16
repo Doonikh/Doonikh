@@ -45,6 +45,6 @@
 ### :keyboard: Наиболее используемые языки:
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/yop-langs/?username=Doonikh" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doonikh" alt=""/>
 </div>
 
