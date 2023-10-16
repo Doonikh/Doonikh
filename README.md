@@ -16,7 +16,18 @@
 </div>
 
 ### :skull_and_crossbones: Обо мне :
+
 - :brain: Очень познавательный человек
 - :genie_man: Лучше не приближаться
 - :space_invader: А если приблизлся - беги
+
+### :hammer_and_wrench: Языки и инструменты :
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+</div>
 
