@@ -39,5 +39,5 @@
 ### :trophy: Достижения :
 
 <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=Dooikh" alt=""/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Doonikh" alt=""/>
 </div>
